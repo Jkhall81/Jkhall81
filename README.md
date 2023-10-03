@@ -10,6 +10,9 @@ I am a Full Stack Engineer with a BA in Anthropology.  I enjoy working with Djan
 <p align='center'>
   <b>Skills:</b> REACT / NEXT JS / JS / TS / TAILWIND / HTML / CSS / PYTHON / FLASK / DJANGO / SQL / DOCKER
 </p>
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
 
 - 🔭 I’m currently working on leveling up my Django skills!
 - 🌱 I’m currently learning Next.js
