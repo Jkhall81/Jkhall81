@@ -12,7 +12,7 @@ I am a Software Engineer with a BA in Anthropology.  I enjoy working with SQL, D
 </p>
 <img src="https://github.com/Jkhall81/Jkhall81/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkhall81&show_icons=true&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkhall81&show_icons=true&langs_count=9)
 
 - 🔭 I’m currently working on leveling up my Django skills!
 - 🌱 I’m currently learning Next.js
