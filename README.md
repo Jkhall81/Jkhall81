@@ -4,7 +4,7 @@
 <br/>
 <p>
   <div>
-I am a Software Engineer with a BA in Anthropology.  I enjoy working with SQL, Django, the Django REST framework, and React.
+I am a Software Engineer with a BA in Anthropology.  I enjoy working with SQL, Django, the Django REST framework, and React / Next.js.
     </div>
 </p>
 <p align='center'>
