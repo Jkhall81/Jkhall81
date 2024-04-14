@@ -8,7 +8,7 @@ I am a Full Stack Engineer with a BA in Anthropology.  I enjoy working with SQL,
     </div>
 </p>
 <p align='center'>
-  <b>Skills:</b> NEXT JS / Prisma / Node / TAILWIND / DJANGO / FLASK /  SQL / DOCKER
+  <b>Skills:</b> NEXT.JS / React / PRISMA / Node / TAILWIND / Django / FLASK /  Sql / DOCKER
 </p>
 
 <div align='center'>
