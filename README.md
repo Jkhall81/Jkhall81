@@ -4,50 +4,52 @@
 
 ---
 
-## Hey, I’m Jason Hall
+## 👋 Hey, I’m Jason Hall
 
-I'm a **full-time developer** and freelance programmer with interests in clean automation, open-source tools, and solving real-world problems with code.
+I'm a **Full-Stack Developer** passionate about **automation**, **open-source development**, and building tools that make complex systems run smoother.  
+Currently working as a **Junior Developer** in a high-volume call center environment, where I design, maintain, and automate Vicidial-based infrastructure with a focus on performance, reliability, and simplicity.
 
-Currently working as a **Junior Developer** at a high-volume call center where I maintain and extend a Vicidial-based infrastructure. I specialize in scripting, internal tooling, and backend automation using **Perl**, **MySQL**, **PHP**, and **React**.
-
----
-
-## What I Do
-
-- **Code professionally** — I build tools that reduce manual work and scale operations.
-- Write automation scripts in **Perl**, **Rust**, **JavaScript**, and **Python**.
-- Build internal platforms using **Laravel**, **React**, **jQuery**, and **Node.js**.
-- Integrate data pipelines with **Salesforce**, **Quickbase**, **Ytel**, and **Boberdoo**.
-- Handle sysadmin tasks with **Linux**, **Apache**, **FOG**, and **Vuls**.
-- Create CLI tools for ETL and reporting on multi-gigabyte datasets.
+I love solving real-world problems with code — from backend services and data pipelines to CLI utilities and web applications.
 
 ---
 
-## Tools & Technologies I Work With
+## 💻 What I Do
+
+- Build **end-to-end applications** with modern full-stack frameworks  
+- Automate workflows using **Perl**, **Rust**, **Python**, and **JavaScript**  
+- Maintain and extend internal platforms with **React**, **Laravel**, and **Node.js**  
+- Integrate enterprise systems like **Salesforce**, **Quickbase**, **Ytel**, and **Boberdoo**  
+- Manage Linux infrastructure and web stacks (**Apache**, **FOG**, **Samba**, **Vuls**)  
+- Write **ETL and reporting scripts** for multi-gigabyte datasets
+
+---
+
+## ⚙️ Tools & Technologies
 
 **Languages & Frameworks**  
-`Perl` · `Rust` · `JavaScript` · `PHP` · `Python` · `SQL`  
-`React` · `Next.js` · `Django` · `Flask` · `Laravel` · `jQuery` . `Dancer2`
+`Perl` · `Rust` · `JavaScript` · `Python` · `PHP` · `SQL`  
+`React` · `Next.js` · `Django` · `Flask` · `Laravel` · `Dancer2`
 
 **Backend & Automation**  
 `Prisma` · `Django REST Framework` · `Node.js` · `MySQL` · `SQLite`  
-`Cron` · `Bash` · `Windows Task Scheduler` · `FOG` · `Apache`
+`Cron` · `Bash` · `Windows Task Scheduler` · `Apache`
 
-**DevOps & Infra**  
-`Linux (Ubuntu, OpenSUSE)` · `Vuls` · `Samba` · `PXE` · `Git`  
-
----
-
-## Current Projects
-
-- Building full-stack apps with **Next.js + Firebase**
-- Maintaining internal HR systems (timeclock, payroll, hiring pipelines, training documentation)
-- Building a MUD engine in **Rust**
-- Writing perl module to scan Apache logs for attacks
+**DevOps & Infrastructure**  
+`Linux (Ubuntu, OpenSUSE)` · `Git` · `Samba` · `PXE` · `Vuls`  
 
 ---
 
-## GitHub Stats
+## 🚀 Current Focus
+
+- Learning **Go** and building practical automation tools  
+- Contributing to **open-source projects** in the **Ansible** and **Red Hat** ecosystem  
+- Expanding my expertise in **DevOps**, **infrastructure automation**, and **systems programming**  
+
+> 🎯 My long-term goal is to become a developer at **Red Hat**, contributing to open-source projects that empower the Linux and automation communities.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkhall81&show_icons=true&langs_count=9" />
@@ -55,13 +57,9 @@ Currently working as a **Junior Developer** at a high-volume call center where I
 
 ---
 
-## Random Facts
+## 💡 Fun Facts
 
-- Constantly improving my web design / Frontend skills
-- I freelance when I can — I love building weird or useful tools
-- Ask me about anything backend or infrastructure-related
-- Nerd for CLI utilities, log parsing, and scripting weird one-offs
-- I speak **Mandarin** and **Spanish**
-- jason.kei.hall@gmail.com
+- I’m self-taught and write code both **professionally** and **for fun**  
+- I enjoy refactoring legacy systems into clean, modular solutions  
+- I believe in **open knowledge**, **shared code**, and **engineering with empathy**
 
----
