@@ -5,6 +5,11 @@
 ---
 
 ## 👋 Hey, I’m Jason Hall
+![Linux](https://img.shields.io/badge/Linux-Expert-green?logo=linux&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-Developer-blue?logo=perl&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Systems%20Dev-00ADD8?logo=go&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Automation-red?logo=terraform)
+
 
 I'm a **Full-Stack Developer** passionate about **automation**, **open-source development**, and building tools that make complex systems run smoother.  
 Currently working as a **Junior Developer** in a high-volume call center environment, where I design, maintain, and automate Vicidial-based infrastructure with a focus on performance, reliability, and simplicity.
