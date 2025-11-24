@@ -12,7 +12,7 @@
 
 
 I'm a **Full-Stack Developer** passionate about **automation**, **open-source development**, and building tools that make complex systems run smoother.  
-Currently working as a **Junior Developer** in a high-volume call center environment, where I design, maintain, and automate Vicidial-based infrastructure with a focus on performance, reliability, and simplicity.
+Currently working as a **Software Developer** in a high-volume call center environment, where I design, maintain, and automate Vicidial-based infrastructure with a focus on performance, reliability, and simplicity.
 
 I love solving real-world problems with code — from backend services and data pipelines to CLI utilities and web applications.
 
@@ -21,7 +21,7 @@ I love solving real-world problems with code — from backend services and data 
 ## 💻 What I Do
 
 - Build **end-to-end applications** with modern full-stack frameworks  
-- Automate workflows using **Perl**, **Rust**, **Python**, and **JavaScript**  
+- Automate workflows using **Perl**, **Go**, **Python**, and **JavaScript**  
 - Maintain and extend internal platforms with **React**, **Laravel**, and **Node.js**  
 - Integrate enterprise systems like **Salesforce**, **Quickbase**, **Ytel**, and **Boberdoo**  
 - Manage Linux infrastructure and web stacks (**Apache**, **FOG**, **Samba**, **Vuls**)  
