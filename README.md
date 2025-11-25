@@ -57,7 +57,7 @@ I love solving real-world problems with code — from backend services and data 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-dptq.vercel.app/api/top-langs/?username=jkhall81&langs_count=9&layout=compact" />
+  <img src="https://github-readme-stats-omega-orpin.vercel.app/api/top-langs/?username=jkhall81&langs_count=9" />
 </div>
 
 ---
