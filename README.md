@@ -11,7 +11,7 @@
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-red?logo=terraform)
 
 
-I'm a **Full-Stack Developer** passionate about **automation**, **open-source development**, and building tools that make complex systems run smoother.  
+I'm a **Software Engineer** passionate about **automation**, **open-source development**, and building tools that make complex systems run smoother.  
 Currently working as a **Software Developer** in a high-volume call center environment, where I design, maintain, and automate Vicidial-based infrastructure with a focus on performance, reliability, and simplicity.
 
 I love solving real-world problems with code — from backend services and data pipelines to CLI utilities and web applications.
