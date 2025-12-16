@@ -26,21 +26,18 @@ I love solving real-world problems with code — from backend services and data 
 - Integrate enterprise systems like **Salesforce**, **Quickbase**, **Ytel**, and **Boberdoo**  
 - Manage Linux infrastructure and web stacks (**Apache**, **FOG**, **Samba**, **Vuls**)  
 - Write **ETL and reporting scripts** for multi-gigabyte datasets
+- Contribut to and maintain open-source projects, with a focus on tooling, automation, and infrastructure
 
 ---
 
 ## ⚙️ Tools & Technologies
 
 **Languages & Frameworks**  
-`Perl` · `Rust` · `JavaScript` · `Python` · `PHP` · `SQL`  
+`Perl` · `Go` . `Rust` · `JavaScript` · `Python` · `PHP` · `SQL`  
 `React` · `Next.js` · `Django` · `Flask` · `Laravel` · `Dancer2`
 
-**Backend & Automation**  
-`Prisma` · `Django REST Framework` · `Node.js` · `MySQL` · `SQLite`  
-`Cron` · `Bash` · `Windows Task Scheduler` · `Apache`
-
 **DevOps & Infrastructure**  
-`Linux (Ubuntu, OpenSUSE)` · `Git` · `Samba` · `PXE` · `Vuls`  
+`Linux (Ubuntu, OpenSUSE)` · `Git` · `Samba` · `FOG/PXE` · `Vuls`  
 
 ---
 
