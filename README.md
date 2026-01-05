@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/bnC70HkiVrZEheSeYS/giphy.gif" width="350" alt="Dev Energy" />
+  <img src="https://media.giphy.com/media/bnC70HkiVrZEheSeYS/giphy_s.gif" width="350" alt="Dev Energy" />
 </div>
 
 ---
