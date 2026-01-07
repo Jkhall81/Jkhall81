@@ -7,7 +7,8 @@
 ## 👋 Hey, I’m Jason Hall
 ![Linux](https://img.shields.io/badge/Linux-Expert-green?logo=linux&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-Developer-blue?logo=perl&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Systems%20Dev-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Systems%20Dev-dea584?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?logo=python&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-red?logo=terraform)
 
 
@@ -21,7 +22,7 @@ I love solving real-world problems with code — from backend services and data 
 ## 💻 What I Do
 
 - Build **end-to-end applications** with modern full-stack frameworks  
-- Automate workflows using **Perl**, **Go**, **Python**, and **JavaScript**  
+- Automate workflows using **Perl**, **Rust**, **Python**, and **JavaScript**  
 - Maintain and extend internal platforms with **React**, **Laravel**, and **Node.js**  
 - Integrate enterprise systems like **Salesforce**, **Quickbase**, **Ytel**, and **Boberdoo**  
 - Manage Linux infrastructure and web stacks (**Apache**, **FOG**, **Samba**, **Vuls**)  
