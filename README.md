@@ -44,7 +44,7 @@ I love solving real-world problems with code — from backend services and data 
 
 ## 🚀 Current Focus
 
-- Learning **Go** and building practical automation tools  
+- Learning **Rust** and building practical automation tools  
 - Contributing to **open-source projects** in the **Ansible** and **Red Hat** ecosystem  
 - Expanding my expertise in **DevOps**, **infrastructure automation**, and **systems programming**  
 
