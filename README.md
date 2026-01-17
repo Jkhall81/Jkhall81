@@ -48,8 +48,6 @@ I love solving real-world problems with code — from backend services and data 
 - Contributing to **open-source projects** in the **Ansible** and **Red Hat** ecosystem  
 - Expanding my expertise in **DevOps**, **infrastructure automation**, and **systems programming**  
 
-> 🎯 My long-term goal is to become a developer at **Red Hat**, contributing to open-source projects that empower the Linux and automation communities.
-
 ---
 
 ## 📊 GitHub Stats
