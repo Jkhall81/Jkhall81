@@ -61,6 +61,7 @@ I like solving problems and making things work — from backend services and dat
 
 ## 💡 Fun Facts
 
-- I’m self-taught and write code both **professionally** and **for fun**  
+- I’m self-taught and write code both **professionally** and **for fun**
+- I can speak Mandarin and some Spanish  
 - I enjoy refactoring legacy systems into clean, modular solutions  
 
