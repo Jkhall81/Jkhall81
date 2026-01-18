@@ -9,13 +9,12 @@
 ![Perl](https://img.shields.io/badge/Perl-Developer-blue?logo=perl&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Systems%20Dev-dea584?logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?logo=python&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-Automation-red?logo=terraform)
 
 
-I'm a **Software Engineer** passionate about **automation**, **open-source development**, and building tools that make complex systems run smoother.  
+I'm a **Software Engineer** who enjoys **automation**, **open-source development**, and building tools that make complex systems run smoother.  
 Currently working as a **Software Developer** in a high-volume call center environment, where I design, maintain, and automate Vicidial-based infrastructure with a focus on performance, reliability, and simplicity.
 
-I love solving real-world problems with code — from backend services and data pipelines to CLI utilities and web applications.
+I like solving problems and making things work — from backend services and data pipelines to CLI utilities and web applications.
 
 ---
 
@@ -24,10 +23,9 @@ I love solving real-world problems with code — from backend services and data 
 - Build **end-to-end applications** with modern full-stack frameworks  
 - Automate workflows using **Perl**, **Rust**, **Python**, and **JavaScript**  
 - Maintain and extend internal platforms with **React**, **Laravel**, and **Node.js**  
-- Integrate enterprise systems like **Salesforce**, **Quickbase**, **Ytel**, and **Boberdoo**  
-- Manage Linux infrastructure and web stacks (**Apache**, **FOG**, **Samba**, **Vuls**)  
+- Integrate enterprise systems like **Salesforce**, **Quickbase**, **Ytel**, and **Boberdoo**
 - Write **ETL and reporting scripts** for multi-gigabyte datasets
-- Contribut to and maintain open-source projects, with a focus on tooling, automation, and infrastructure
+- Contribute to and maintain open-source projects, with a focus on tooling, automation, and infrastructure
 
 ---
 
@@ -35,7 +33,7 @@ I love solving real-world problems with code — from backend services and data 
 
 **Languages & Frameworks**  
 `Perl` · `Go` . `Rust` · `JavaScript` · `Python` · `PHP` · `SQL`  
-`React` · `Next.js` · `Django` · `Flask` · `Laravel` · `Dancer2`
+`React` · `Next.js` · `Django` · `Flask` · `Laravel`
 
 **DevOps & Infrastructure**  
 `Linux (Ubuntu, OpenSUSE)` · `Git` · `Samba` · `FOG/PXE` · `Vuls`  
