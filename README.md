@@ -5,45 +5,41 @@
 ---
 
 ## 👋 Hey, I’m Jason Hall
-![Linux](https://img.shields.io/badge/Linux-Expert-green?logo=linux&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-Developer-blue?logo=perl&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Systems%20Dev-dea584?logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Noob-green?style=flat-square&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Scripting%20%26%20Tooling-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Python%20Tooling-dea584?style=flat-square&logo=rust&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-Data%20Wrangling-39457E?style=flat-square&logo=perl&logoColor=white)
 
 
-I'm a **Software Engineer** who enjoys **automation**, **open-source development**, and building tools that make complex systems run smoother.  
-Currently working as a **Software Developer** in a high-volume call center environment, where I design, maintain, and automate Vicidial-based infrastructure with a focus on performance, reliability, and simplicity.
+I’m a **Software Engineer** specializing in **backend infrastructure**, **automation**, and high-performance **developer tooling**. I am an open-source contributor, focused on improving the performance and reliability of systems used by thousands of developers, with active contributions to **Ansible Lint** and **Ruff**.
 
-I like solving problems and making things work — from backend services and data pipelines to CLI utilities and web applications.
+Currently, I design and automate **high-volume distributed infrastructure** with a focus on **concurrency**, **performance optimization**, and **reliability**. I enjoy solving complex problems at the intersection of systems programming and data pipelines—from backend services and CLI utilities to web applications.
 
 ---
 
 ## 💻 What I Do
 
-- Build **end-to-end applications** with modern full-stack frameworks  
-- Automate workflows using **Perl**, **Rust**, **Python**, and **JavaScript**  
-- Maintain and extend internal platforms with **React**, **Laravel**, and **Node.js**  
-- Integrate enterprise systems like **Salesforce**, **Quickbase**, **Ytel**, and **Boberdoo**
-- Write **ETL and reporting scripts** for multi-gigabyte datasets
-- Contribute to and maintain open-source projects, with a focus on tooling, automation, and infrastructure
+- **High-Performance Tooling**: Working on **Rust**-based developer tools and contributing to the **Ruff** ecosystem.
+- **Systems Automation**: Building **Ansible** and **Python** automation to streamline complex infrastructure deployments.
+- **Scalable Backend**: Designing high-concurrency services focused on performance, reliability, and simplicity.
+- **Data Engineering**: Architecting **Python**, **Perl**, and **Rust** pipelines for processing multi-gigabyte datasets.
+- **Open Source**: Contributing to **Ansible Lint**, **Ruff**, and **Apache Airflow**.
+- **Full-Stack**: Developing internal platforms and frontend applications using **React** and **Laravel**.
 
 ---
 
 ## ⚙️ Tools & Technologies
 
 **Languages & Frameworks**  
-`Perl` · `Go` . `Rust` · `JavaScript` · `Python` · `PHP` · `SQL`  
+`Python` . `Rust` · `JavaScript` · `Perl` · `PHP` · `SQL`  
 `React` · `Next.js` · `Django` · `Flask` · `Laravel`
-
-**DevOps & Infrastructure**  
-`Linux (Ubuntu, OpenSUSE)` · `Git` · `Samba` · `FOG/PXE` · `Vuls`  
 
 ---
 
 ## 🚀 Current Focus
 
 - Learning **Rust** and building practical automation tools  
-- Contributing to **open-source projects** in the **Ansible** and **Red Hat** ecosystem  
+- Contributing to **open-source projects**
 - Expanding my expertise in **DevOps**, **infrastructure automation**, and **systems programming**  
 
 ---
