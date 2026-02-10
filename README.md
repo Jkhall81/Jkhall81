@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 Hey, I’m Jason Hall
+## Hey, I’m Jason Hall
 ![Linux](https://img.shields.io/badge/Linux-Noob-green?style=flat-square&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Scripting%20%26%20Tooling-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Python%20Tooling-dea584?style=flat-square&logo=rust&logoColor=white)
@@ -17,7 +17,7 @@ Currently, I design and automate **high-volume distributed infrastructure** with
 
 ---
 
-## 💻 What I Do
+## What I Do
 
 - **High-Performance Tooling**: Working on **Rust**-based developer tools and contributing to the **Ruff** ecosystem.
 - **Systems Automation**: Building **Ansible** and **Python** automation to streamline complex infrastructure deployments.
@@ -28,7 +28,7 @@ Currently, I design and automate **high-volume distributed infrastructure** with
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
 **Languages & Frameworks**  
 `Python` . `Rust` · `JavaScript` · `Perl` · `PHP` · `SQL`  
@@ -36,7 +36,7 @@ Currently, I design and automate **high-volume distributed infrastructure** with
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Learning **Rust** and building practical automation tools  
 - Contributing to **open-source projects**
@@ -44,7 +44,7 @@ Currently, I design and automate **high-volume distributed infrastructure** with
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-khaki-nu-46.vercel.app/api/top-langs/?username=jkhall81&layout=compact&langs_count=9&custom_title=Languages%20I%20Use%20Most&theme=tokyonight" />
@@ -55,7 +55,7 @@ Currently, I design and automate **high-volume distributed infrastructure** with
 
 ---
 
-## 💡 Fun Facts
+## Fun Facts
 
 - I’m self-taught and write code both **professionally** and **for fun**
 - I can speak Mandarin and some Spanish  
